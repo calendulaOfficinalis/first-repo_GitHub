@@ -1,6 +1,14 @@
 
 
 עמגא ו עוסעמג פאיכ.
+<<<<<<< HEAD
 update with tortoise.
 
 additional text.
+=======
+<<<<<<< HEAD
+update with bash
+=======
+update with tortoise.
+>>>>>>> 021f4bb96ba66cba51d0678f1698e2aa22c0fbf9
+>>>>>>> 78bd28ae1532e62613cd9d4f48dbbbcb3a281e1d
